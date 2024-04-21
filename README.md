@@ -1,4 +1,4 @@
-# Apresentação do Projecto : Kufuma
+# Apresentação do Projecto :  Kufuma
 
 Nosso aplicativo de Simulação de Negócios visa oferecer uma plataforma
 interativa para aspirantes a empreendedores que desejam explorar
