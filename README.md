@@ -1,4 +1,4 @@
-##Apresentação do Projecto : Kufuma
+## Apresentação do Projecto : Kufuma
 
 Nosso aplicativo de Simulação de Negócios visa oferecer uma plataforma
 interativa e educativa para aspirantes a empreendedores que desejam explorar
@@ -8,7 +8,7 @@ nosso aplicativo oferece uma série de recursos e ferramentas projetadas para
 ajudar os usuários a avaliar suas ideias de negócios, receber feedback
 personalizado e tomar decisões informadas sobre o futuro de suas empreitadas.
 
-#Funcionalidades:
+# Funcionalidades:
 O aplicativo funciona coletando informações básicas fornecidas pelo usuário, como o
 nome da empresa, tipo de negócio (serviços ou vendas), área de atuação, valor de
 entrada e uma breve descrição da ideia de negócio. Com base nesses dados, o
